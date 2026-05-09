@@ -11,7 +11,7 @@
         I'm Scr4t3, a student in 2º Software Engenieering. I hope you like it. 
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+code+beautiful+and+aesthetic+programs.">
+        <image src="https://readme-typing-svg.herokuapp.com/?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+code+VHDL+and+Assembler+programs.">
       <br>
       <b>
         ~ Alejandro Jordán Durán ~
