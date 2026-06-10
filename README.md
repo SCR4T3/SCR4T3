@@ -26,7 +26,7 @@
   <samp>
     [<a href="https://twitter.com/Er_SCR4T3">twitter</a>]
     [<a href="https://www.instagram.com/alejandrojdn_/">instagram</a>]
-    [<a href="jordanduranalejandro@gmail.com">e-mail</a>]
+    [<a href="mailto:jordanduranalejandro@gmail.com">e-mail</a>]
   </samp>
 </p>
 <p align="right"><strong><samp>」</samp></strong></p>
